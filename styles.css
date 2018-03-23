@@ -1,5 +1,5 @@
 body{
-	background-color: ;
+	background-color: #707372;
 	border-left: 100px dotted #C1121C;
 	border-right: 100px dotted #C1121C;
 }
@@ -24,6 +24,14 @@ img{
 	margin-left: auto;
 	margin-right: auto;
 	display: block;
+}
+img.bordered{
+	border: 10px solid white;
+	border-radius: 10px;
+}
+img.solidbordered{
+	border: 5px solid #b2b4b2;
+	border-radius: 10px;
 }
 
 figure{
