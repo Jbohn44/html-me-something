@@ -6,6 +6,14 @@ body{
 header h1{
 	text-align: center;
 	font-size: 75px;
+	border: 15px solid #C1121C;
+	border-radius: 60px;
+	background-color: white;
+	color: #C1121C;
+	
+}
+header{
+	padding-bottom: 200px;
 }
 p.text{
 	border: 5px solid #b2b4b2;
@@ -16,6 +24,8 @@ p.text{
 	margin-right: 100px;
 	border-radius: 10px;
 	background-color: #b2b4b2;
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
 
 img{
@@ -28,10 +38,19 @@ img{
 img.bordered{
 	border: 10px solid white;
 	border-radius: 10px;
+	
 }
 img.solidbordered{
 	border: 5px solid #b2b4b2;
 	border-radius: 10px;
+}
+
+#header_img{
+	height: 50%;
+	width: 50%;
+	border: 10px solid white;
+	border-radius: 10px;
+
 }
 
 figure{
