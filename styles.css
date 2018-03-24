@@ -10,9 +10,11 @@ header h1{
 	border-radius: 60px;
 	background-color: white;
 	color: #C1121C;
+
 	
 }
 header{
+	padding-top: 35px;
 	padding-bottom: 200px;
 }
 p.text{
@@ -74,4 +76,7 @@ ul{
 p.noborder{
 	text-align: left;
 	font-size: 15px;
+}
+footer{
+	padding-top: 50px;
 }
